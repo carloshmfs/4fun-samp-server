@@ -1,0 +1,364 @@
+[01:05:19] [WARNING] mysql_connect: no password specified
+[01:05:19] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost:3308' (0)'
+[01:05:19] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost:3308' (0)'
+[01:05:19] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost:3308' (0)'
+[01:05:19] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost:3308' (0)'
+[01:06:21] [WARNING] mysql_connect: no password specified
+[01:06:21] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost:3308' (0)'
+[01:06:21] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost:3308' (0)'
+[01:06:21] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost:3308' (0)'
+[01:06:21] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost:3308' (0)'
+[01:07:04] [WARNING] mysql_connect: no password specified
+[01:07:04] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost:3308' (0)'
+[01:07:04] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost:3308' (0)'
+[01:07:04] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost:3308' (0)'
+[01:07:04] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host 'localhost:3308' (0)'
+[01:08:03] [WARNING] mysql_connect: no password specified
+[01:08:03] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:08:03] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:08:03] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:08:03] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:08:17] [WARNING] mysql_connect: no password specified
+[01:08:17] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:08:17] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:08:17] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:08:17] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:08:32] [WARNING] mysql_connect: no password specified
+[01:08:32] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host '127.0.0.1:3308' (0)'
+[01:08:32] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host '127.0.0.1:3308' (0)'
+[01:08:32] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host '127.0.0.1:3308' (0)'
+[01:08:32] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host '127.0.0.1:3308' (0)'
+[01:10:34] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host '127.0.0.1:3308' (0)'
+[01:10:34] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host '127.0.0.1:3308' (0)'
+[01:10:34] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host '127.0.0.1:3308' (0)'
+[01:10:34] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host '127.0.0.1:3308' (0)'
+[01:14:19] [WARNING] mysql_connect: no password specified
+[01:14:19] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:14:19] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:14:19] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:14:19] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:15:31] [WARNING] mysql_connect: no password specified
+[01:15:31] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:15:31] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:15:31] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:15:31] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:19:47] [ERROR] mysql_connect_file: handle error: syntax error in connection file (line: "password	= ")
+[01:19:47] [ERROR] mysql_errno: invalid connection handle '0'
+[01:20:53] [ERROR] mysql_connect_file: handle error: syntax error in connection file (line: "password	= ")
+[01:20:53] [ERROR] mysql_errno: invalid connection handle '0'
+[01:23:39] [WARNING] mysql_connect: no password specified
+[01:23:39] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:23:39] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:23:39] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:23:39] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:30:40] [WARNING] mysql_connect: no password specified
+[01:30:40] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host '127.0.0.1:3308' (0)'
+[01:30:40] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host '127.0.0.1:3308' (0)'
+[01:30:40] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host '127.0.0.1:3308' (0)'
+[01:30:40] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2005 'Unknown MySQL server host '127.0.0.1:3308' (0)'
+[01:31:20] [WARNING] mysql_connect: no password specified
+[01:31:20] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:31:20] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:31:20] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:31:20] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:33:54] [WARNING] mysql_connect: no password specified
+[01:33:54] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'aula''
+[01:33:54] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'aula''
+[01:33:54] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'aula''
+[01:33:54] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'aula''
+[01:37:23] [WARNING] mysql_connect: no password specified
+[01:37:23] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'aula''
+[01:37:23] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'aula''
+[01:37:23] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'aula''
+[01:37:24] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'aula''
+[01:37:34] [WARNING] mysql_connect: no password specified
+[01:37:34] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'aula''
+[01:37:34] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'aula''
+[01:37:34] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'aula''
+[01:37:34] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'aula''
+[01:43:05] [WARNING] mysql_connect: no password specified
+[01:43:05] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:43:05] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:43:05] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:43:05] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sampserver''
+[01:47:50] [WARNING] mysql_connect: no password specified
+[02:02:07] [WARNING] mysql_connect: no password specified
+[02:04:43] [WARNING] mysql_connect: no password specified
+[02:27:35] [WARNING] mysql_connect: no password specified
+[17:23:37] [WARNING] mysql_connect: no password specified
+[17:30:45] [WARNING] mysql_connect: no password specified
+[17:35:09] [WARNING] mysql_connect: no password specified
+[17:44:50] [WARNING] mysql_connect: no password specified
+[18:22:17] [WARNING] mysql_connect: no password specified
+[18:28:27] [WARNING] mysql_connect: no password specified
+[18:30:57] [WARNING] mysql_connect: no password specified
+[19:33:12] [WARNING] mysql_connect: no password specified
+[19:33:13] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[19:33:14] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[19:33:15] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[19:33:16] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[00:09:52] [WARNING] mysql_connect: no password specified
+[00:09:53] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[00:09:54] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[00:09:55] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[00:09:56] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[00:10:20] [ERROR] cache_get_row_count: no active cache
+[00:10:47] [ERROR] cache_get_row_count: no active cache
+[00:15:38] [WARNING] mysql_connect: no password specified
+[00:19:21] [WARNING] mysql_connect: no password specified
+[00:39:31] [WARNING] mysql_connect: no password specified
+[00:40:58] [WARNING] mysql_connect: no password specified
+[00:42:40] [WARNING] mysql_connect: no password specified
+[00:44:11] [WARNING] mysql_connect: no password specified
+[00:47:49] [WARNING] mysql_connect: no password specified
+[00:50:46] [WARNING] mysql_connect: no password specified
+[01:02:43] [WARNING] mysql_connect: no password specified
+[01:03:33] [WARNING] mysql_connect: no password specified
+[01:06:16] [WARNING] mysql_connect: no password specified
+[01:08:59] [WARNING] mysql_connect: no password specified
+[01:10:05] [WARNING] mysql_connect: no password specified
+[01:15:04] [WARNING] mysql_connect: no password specified
+[01:18:01] [WARNING] mysql_connect: no password specified
+[01:20:57] [WARNING] mysql_connect: no password specified
+[01:35:03] [WARNING] mysql_connect: no password specified
+[01:38:46] [WARNING] mysql_connect: no password specified
+[01:42:30] [WARNING] mysql_connect: no password specified
+[16:37:27] [WARNING] mysql_connect: no password specified
+[16:38:40] [WARNING] mysql_connect: no password specified
+[16:53:21] [WARNING] mysql_connect: no password specified
+[16:57:33] [WARNING] mysql_connect: no password specified
+[16:59:30] [WARNING] mysql_connect: no password specified
+[17:01:02] [WARNING] mysql_connect: no password specified
+[17:05:28] [WARNING] mysql_connect: no password specified
+[17:21:08] [WARNING] mysql_connect: no password specified
+[17:26:19] [WARNING] mysql_connect: no password specified
+[18:56:49] [WARNING] mysql_connect: no password specified
+[18:59:03] [WARNING] mysql_connect: no password specified
+[19:29:17] [WARNING] mysql_connect: no password specified
+[19:37:28] [WARNING] mysql_connect: no password specified
+[19:41:13] [WARNING] mysql_connect: no password specified
+[19:42:46] [WARNING] mysql_connect: no password specified
+[19:47:59] [WARNING] mysql_connect: no password specified
+[19:52:50] [WARNING] mysql_connect: no password specified
+[19:56:48] [WARNING] mysql_connect: no password specified
+[20:02:47] [WARNING] mysql_connect: no password specified
+[20:03:56] [WARNING] mysql_connect: no password specified
+[20:05:23] [WARNING] mysql_connect: no password specified
+[20:06:58] [WARNING] mysql_connect: no password specified
+[20:11:39] [WARNING] mysql_connect: no password specified
+[20:33:34] [WARNING] mysql_connect: no password specified
+[20:36:41] [WARNING] mysql_connect: no password specified
+[20:37:54] [WARNING] mysql_connect: no password specified
+[20:40:27] [WARNING] mysql_connect: no password specified
+[20:41:19] [WARNING] mysql_connect: no password specified
+[20:44:46] [WARNING] mysql_connect: no password specified
+[20:46:21] [WARNING] mysql_connect: no password specified
+[21:06:57] [WARNING] mysql_connect: no password specified
+[21:10:40] [WARNING] mysql_connect: no password specified
+[21:10:46] [WARNING] mysql_connect: no password specified
+[21:35:58] [WARNING] mysql_connect: no password specified
+[21:38:03] [WARNING] mysql_connect: no password specified
+[21:41:00] [WARNING] mysql_connect: no password specified
+[21:42:32] [WARNING] mysql_connect: no password specified
+[21:44:34] [WARNING] mysql_connect: no password specified
+[22:05:06] [WARNING] mysql_connect: no password specified
+[22:06:57] [WARNING] mysql_connect: no password specified
+[22:12:35] [WARNING] mysql_connect: no password specified
+[22:23:14] [WARNING] mysql_connect: no password specified
+[22:24:35] [WARNING] mysql_connect: no password specified
+[22:26:55] [WARNING] mysql_connect: no password specified
+[22:33:31] [WARNING] mysql_connect: no password specified
+[22:38:28] [WARNING] mysql_connect: no password specified
+[22:43:12] [WARNING] mysql_connect: no password specified
+[22:45:26] [WARNING] mysql_connect: no password specified
+[22:52:24] [WARNING] mysql_connect: no password specified
+[22:59:22] [WARNING] mysql_connect: no password specified
+[23:00:26] [WARNING] mysql_connect: no password specified
+[23:08:14] [WARNING] mysql_connect: no password specified
+[23:08:59] [WARNING] mysql_connect: no password specified
+[23:18:37] [WARNING] mysql_connect: no password specified
+[00:01:48] [WARNING] mysql_connect: no password specified
+[18:15:06] [WARNING] mysql_connect: no password specified
+[18:24:34] [WARNING] mysql_connect: no password specified
+[18:29:34] [WARNING] mysql_connect: no password specified
+[18:36:41] [WARNING] mysql_connect: no password specified
+[18:40:18] [WARNING] mysql_connect: no password specified
+[19:06:51] [WARNING] mysql_connect: no password specified
+[19:08:59] [WARNING] mysql_connect: no password specified
+[19:13:44] [WARNING] mysql_connect: no password specified
+[19:16:57] [WARNING] mysql_connect: no password specified
+[19:21:28] [WARNING] mysql_connect: no password specified
+[19:22:55] [WARNING] mysql_connect: no password specified
+[19:23:56] [WARNING] mysql_connect: no password specified
+[19:24:57] [WARNING] mysql_connect: no password specified
+[19:25:47] [WARNING] mysql_connect: no password specified
+[19:26:43] [WARNING] mysql_connect: no password specified
+[19:27:38] [WARNING] mysql_connect: no password specified
+[19:37:27] [WARNING] mysql_connect: no password specified
+[19:38:28] [WARNING] mysql_connect: no password specified
+[19:50:19] [WARNING] mysql_connect: no password specified
+[19:55:43] [WARNING] mysql_connect: no password specified
+[20:04:59] [WARNING] mysql_connect: no password specified
+[20:12:40] [WARNING] mysql_connect: no password specified
+[20:13:04] [WARNING] mysql_connect: no password specified
+[20:14:37] [WARNING] mysql_connect: no password specified
+[20:20:41] [WARNING] mysql_connect: no password specified
+[20:20:49] [WARNING] mysql_connect: no password specified
+[22:59:25] [WARNING] mysql_connect: no password specified
+[23:00:35] [WARNING] mysql_connect: no password specified
+[23:23:46] [WARNING] mysql_connect: no password specified
+[23:30:10] [WARNING] mysql_connect: no password specified
+[23:41:59] [WARNING] mysql_connect: no password specified
+[01:48:03] [WARNING] mysql_connect: no password specified
+[02:09:41] [WARNING] mysql_connect: no password specified
+[02:21:26] [WARNING] mysql_connect: no password specified
+[03:01:07] [WARNING] mysql_connect: no password specified
+[03:08:01] [WARNING] mysql_connect: no password specified
+[03:10:18] [WARNING] mysql_connect: no password specified
+[03:22:22] [WARNING] mysql_connect: no password specified
+[03:23:18] [WARNING] mysql_connect: no password specified
+[03:23:42] [WARNING] mysql_connect: no password specified
+[03:59:42] [WARNING] mysql_connect: no password specified
+[04:02:18] [WARNING] mysql_connect: no password specified
+[04:04:16] [WARNING] mysql_connect: no password specified
+[04:06:01] [WARNING] mysql_connect: no password specified
+[04:08:20] [WARNING] mysql_connect: no password specified
+[04:10:13] [WARNING] mysql_connect: no password specified
+[04:17:35] [WARNING] mysql_connect: no password specified
+[04:33:50] [WARNING] mysql_connect: no password specified
+[04:35:43] [WARNING] mysql_connect: no password specified
+[04:38:37] [WARNING] mysql_connect: no password specified
+[04:40:20] [WARNING] mysql_connect: no password specified
+[04:40:27] [WARNING] mysql_connect: no password specified
+[04:47:58] [WARNING] mysql_connect: no password specified
+[04:53:23] [WARNING] mysql_connect: no password specified
+[04:56:49] [WARNING] mysql_connect: no password specified
+[05:18:54] [WARNING] mysql_connect: no password specified
+[05:19:44] [WARNING] mysql_connect: no password specified
+[05:22:27] [WARNING] mysql_connect: no password specified
+[13:41:44] [WARNING] mysql_connect: no password specified
+[03:26:05] [WARNING] mysql_connect: no password specified
+[03:26:06] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[03:26:07] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[03:26:08] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[03:26:09] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[10:56:34] [WARNING] mysql_connect: no password specified
+[11:01:09] [WARNING] mysql_connect: no password specified
+[11:13:13] [WARNING] mysql_connect: no password specified
+[16:31:48] [WARNING] mysql_connect: no password specified
+[16:31:55] [WARNING] mysql_connect: no password specified
+[17:59:09] [WARNING] mysql_connect: no password specified
+[18:00:38] [WARNING] mysql_connect: no password specified
+[18:01:52] [WARNING] mysql_connect: no password specified
+[18:04:21] [WARNING] mysql_connect: no password specified
+[18:50:51] [WARNING] mysql_connect: no password specified
+[18:58:13] [WARNING] mysql_connect: no password specified
+[19:21:33] [WARNING] mysql_connect: no password specified
+[20:25:33] [WARNING] mysql_connect: no password specified
+[20:27:25] [WARNING] mysql_connect: no password specified
+[20:28:19] [WARNING] mysql_connect: no password specified
+[20:30:04] [WARNING] mysql_connect: no password specified
+[18:50:04] [WARNING] mysql_connect: no password specified
+[19:22:10] [WARNING] mysql_connect: no password specified
+[19:23:56] [WARNING] mysql_connect: no password specified
+[19:37:17] [WARNING] mysql_connect: no password specified
+[19:39:20] [WARNING] mysql_connect: no password specified
+[19:49:07] [WARNING] mysql_connect: no password specified
+[19:51:34] [WARNING] mysql_connect: no password specified
+[19:52:28] [WARNING] mysql_connect: no password specified
+[19:54:24] [WARNING] mysql_connect: no password specified
+[19:56:08] [WARNING] mysql_connect: no password specified
+[19:57:05] [WARNING] mysql_connect: no password specified
+[19:59:35] [WARNING] mysql_connect: no password specified
+[20:00:39] [WARNING] mysql_connect: no password specified
+[20:01:48] [WARNING] mysql_connect: no password specified
+[20:02:49] [WARNING] mysql_connect: no password specified
+[20:03:51] [WARNING] mysql_connect: no password specified
+[20:05:34] [WARNING] mysql_connect: no password specified
+[20:08:22] [WARNING] mysql_connect: no password specified
+[20:09:45] [WARNING] mysql_connect: no password specified
+[20:11:20] [WARNING] mysql_connect: no password specified
+[20:28:42] [WARNING] mysql_connect: no password specified
+[22:37:43] [WARNING] mysql_connect: no password specified
+[01:11:22] [WARNING] mysql_connect: no password specified
+[15:33:58] [WARNING] mysql_connect: no password specified
+[15:33:59] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[15:34:00] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[15:34:01] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[15:34:02] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[16:13:24] [WARNING] mysql_connect: no password specified
+[16:13:25] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[16:13:26] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[16:13:27] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[16:13:28] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:09:53] [WARNING] mysql_connect: no password specified
+[18:09:54] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:09:55] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:09:56] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:09:57] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:11:09] [WARNING] mysql_connect: no password specified
+[18:11:10] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:11:11] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:11:12] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:11:13] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:21:55] [WARNING] mysql_connect: no password specified
+[18:21:56] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:21:57] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:21:58] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:21:59] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:23:42] [WARNING] mysql_connect: no password specified
+[18:23:43] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:23:44] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:23:45] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:23:46] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:37:56] [WARNING] mysql_connect: no password specified
+[18:37:57] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:37:58] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:37:59] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:38:00] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:43:07] [WARNING] mysql_connect: no password specified
+[18:43:08] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:43:09] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:43:10] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[18:43:11] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[22:19:35] [WARNING] mysql_connect: no password specified
+[22:19:36] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[22:19:37] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[22:19:38] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[22:19:39] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[22:29:20] [WARNING] mysql_connect: no password specified
+[22:29:21] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[22:29:22] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[22:29:23] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[22:29:24] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[01:05:36] [WARNING] mysql_connect: no password specified
+[01:05:37] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[01:05:38] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[01:05:39] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[01:05:40] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[01:06:25] [WARNING] mysql_connect: no password specified
+[01:06:26] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[01:06:27] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[01:06:28] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[01:06:29] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:34:05] [WARNING] mysql_connect: no password specified
+[21:34:06] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:34:07] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:34:08] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:34:09] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:35:13] [WARNING] mysql_connect: no password specified
+[21:35:14] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:35:15] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:35:16] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:35:17] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:36:38] [WARNING] mysql_connect: no password specified
+[21:36:39] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:36:40] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:36:41] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:36:42] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:37:18] [WARNING] mysql_connect: no password specified
+[21:37:19] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:37:20] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:37:21] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:37:22] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:39:40] [WARNING] mysql_connect: no password specified
