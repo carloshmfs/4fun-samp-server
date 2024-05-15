@@ -1,1 +1,3 @@
 *.amx
+server_log.txt
+logs/
