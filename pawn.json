@@ -1,0 +1,14 @@
+{
+	"user": "carloshmfs",
+	"repo": "4fun-samp-server",
+	"tag": "0.0.1",
+	"entry": "gamemodes\\GM.pwn",
+	"output": "gamemodes/gamemodes\\GM.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib"
+	],
+	"local": true,
+	"runtime": {
+		"mode": "y_testing"
+	}
+}
