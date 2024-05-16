@@ -6,7 +6,8 @@
 	"output": "gamemodes/gamemodes\\GM.amx",
 	"dependencies": [
 		"pawn-lang/samp-stdlib",
-		"dakyskye/pawn-env:1.1.1"
+		"dakyskye/pawn-env:1.1.1",
+		"pBlueG/SA-MP-MySQL:R41"
 	],
 	"local": true,
 	"runtime": {
